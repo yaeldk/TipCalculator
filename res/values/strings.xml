@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tip Calculator</string>
+    <string name="edit_text_title">Bill Amount</string>
+    <string name="edit_text_default">Enter the sum here</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="round_option">Round to nearest dollar</string>
+    <string name="tip_text">Tip: $</string>
+    <string name="error_not_number">You should enter a nuber!</string>
+    <string name="error_negative_number">You should enter a positive nuber!</string>
+    
+    <string name="action_settings">Settings</string>
+
+</resources>
